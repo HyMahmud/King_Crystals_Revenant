@@ -2,7 +2,7 @@
 # AUTHOR: LuXo KING Gaming
 # Version: 0.4
 
-Server Support Discord https://discord.gg/vBxEqmp92W
+Server Support Discord https://discord.gg/RBwjKD4DqZ
 
 **Do not try to say that this model is yours because it is originally mine and I worked hard to develop it**
 
