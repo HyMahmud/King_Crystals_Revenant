@@ -1,5 +1,6 @@
 # Nick: King Crystals Revenant
 # AUTHOR: LuXo KING Gaming
+# Note: New Nick HyMahmud
 # Version: 0.4
 
 Server Support Discord https://discord.gg/E5myyEy5AN
